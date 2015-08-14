@@ -1,0 +1,4 @@
+public Llanta
+{
+  private int atribustosLLanta;
+}
