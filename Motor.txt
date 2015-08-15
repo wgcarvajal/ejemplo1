@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 class Motor
 {
   private int marca;
+=======
+Class Motor
+{
+	int cilindraje;
+	int fuerza;
+>>>>>>> test
 }
